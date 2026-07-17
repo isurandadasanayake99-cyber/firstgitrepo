@@ -6,7 +6,7 @@
 <body>
 
     <h1>NCC Practice</h1>
-    <p>This is my first practice session. Error!!!!!!!!!!!!!!!</p>
+    <p>This is my first practice session. Friend fixed</p>
 
 </body>
 </html>
