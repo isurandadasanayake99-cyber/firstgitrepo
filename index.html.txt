@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Page</title>
+    <title>First Practice</title>
 </head>
 <body>
 
