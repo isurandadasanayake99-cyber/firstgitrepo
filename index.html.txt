@@ -5,7 +5,7 @@
 </head>
 <body>
 
-    <h1>NCC Practice session edited for fetch</h1>
+    <h1>NCC Practice</h1>
 
     <p>This is my first practice session. Fixed</p>
 
